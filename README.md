@@ -11,5 +11,6 @@ The algorithm keeps track of the currently known shortest distance from each nod
 2. Matplotlib
 3. OpenCV 4
 
-## Program Output Visualization 
+## Program Output Visualization
 
+![caption](video/Dijkstra-pathplanning-maaruf-vazifdar.gif)
