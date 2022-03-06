@@ -164,6 +164,8 @@ if check_position(goal_position) is False:
     print('Invalid Goal position\n')
     exit()
 
+plt.xlim([0,400])
+plt.ylim([0, 250])
 plt.scatter(start_position[0], start_position[1], color='green')
 plt.scatter(goal_position[0], goal_position[1], color='red')
 
