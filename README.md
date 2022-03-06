@@ -23,12 +23,9 @@ The algorithm keeps track of the currently known shortest distance from each nod
 
 ## Steps to run code
 
-1. Unzip the `Dijkstra-pathplanning-maaruf-vazifdar.zip` file .
-2. Open a terminal and cd into the folder `Dijkstra-pathplanning-maaruf-vazifdar`.
-3. To run the code:
+1. `git clone https://github.com/maarufvazifdar/dijkstra_pathplanning.git`
 
-    ```bash
-    python3 Dijkstra-pathplanning-maaruf-vazifdar.py
-    ```
+2. `cd dijkstra_pathplanning`
+3. `python3 Dijkstra-pathplanning-maaruf-vazifdar.py`
 
 4. Provide the starting x,y and goal x,y coordinates and enter 0,1 or 2 to visualize the output. (Visalising all explored nodes can take long time, so please be patient.)
