@@ -28,4 +28,4 @@ The algorithm keeps track of the currently known shortest distance from each nod
 2. `cd dijkstra_pathplanning`
 3. `python3 Dijkstra-pathplanning-maaruf-vazifdar.py`
 
-4. Provide the starting x,y and goal x,y coordinates and enter 0,1 or 2 to visualize the output. (Visalising all explored nodes can take long time, so please be patient.)
+4. Provide the starting x,y and goal x,y coordinates and enter 0,1 or 2 to visualize the output. (Visualizing all explored nodes can take long time, so please be patient.)
